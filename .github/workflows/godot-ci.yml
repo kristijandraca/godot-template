@@ -126,6 +126,8 @@ jobs:
       matrix:
         channel:
           - html5
+          - windows
+          - linux
     steps:
       - uses: actions/download-artifact@v4
         with:
