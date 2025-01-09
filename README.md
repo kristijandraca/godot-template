@@ -20,8 +20,8 @@ This is a Godot project template with CI/CD integration to automate the export a
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/godottemplate.git
-    cd godottemplate
+    git clone https://github.com/kristijandraca/godot-template.git
+    cd godot-template
     ```
 
 2. Open the project in Godot Engine.
