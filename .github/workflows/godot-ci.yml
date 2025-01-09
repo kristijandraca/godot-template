@@ -6,7 +6,7 @@ on:
 env:
   GODOT_VERSION: 4.3
   EXPORT_NAME: GodotTemplate
-  PROJECT_PATH: GodotTemplate
+  PROJECT_PATH: .
   ITCH_USERNAME: studioadriatic
   ITCH_GAME_ID: godot-example-ci-cd
 
