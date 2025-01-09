@@ -119,7 +119,7 @@ jobs:
 
   deploy:
     name: Upload to Itch
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     needs: [ export-web, export-windows, export-linux ]
     strategy:
       fail-fast: true
